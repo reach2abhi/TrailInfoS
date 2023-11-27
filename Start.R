@@ -1,2 +1,2 @@
-# Make an R Dashboard
+# Make a R Dashboard
 Visible <- TRUE
